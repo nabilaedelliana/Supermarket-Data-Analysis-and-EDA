@@ -8,4 +8,4 @@ There will be insights that I found, my interactive dashboard, visualization of 
 
 or use the link below
 
-https://rain-predictor-fe.herokuapp.com/
+https://nabila-e-k-011-p0m1.herokuapp.com/
